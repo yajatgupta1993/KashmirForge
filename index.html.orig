@@ -89,7 +89,11 @@
             <div class="row justify-content-center">
                 <div class="col-xl-7 col-lg-9 text-center">
                     <h1>Clever Engineering You can Feel</h1>
+<<<<<<< HEAD
                     <h2>We are team of talented designers</h2>
+=======
+                    <h2>We are team of talanted designers</h2>
+>>>>>>> f36ec85c1167513a97acf7f793c99cbb59d5816f
                 </div>
             </div>
             <!-- <div class="text-center">
@@ -542,9 +546,15 @@
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                         <div class="portfolio-wrap">
+<<<<<<< HEAD
                             <img src="assets/img/portfolio/WhatsApp Image 2021-07-28 at 15.33.20.jpeg" class="img-fluid" alt="">
                             <div class="portfolio-info">
                                 <h4>10 ml Measuring cap</h4>
+=======
+                            <img src="assets/img/portfolio/bottle-flip-top-cap-500x500.jpg" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+                                <h4>Flip Top Cap</h4>
+>>>>>>> f36ec85c1167513a97acf7f793c99cbb59d5816f
                                 <!-- <p>Card</p> -->
                                 <!-- <div class="portfolio-links">
                                     <a href="assets/img/portfolio/bottle-flip-top-cap-500x500.jpg" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
@@ -584,9 +594,15 @@
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                         <div class="portfolio-wrap">
+<<<<<<< HEAD
                             <img src="assets/img/portfolio/WhatsApp Image 2021-07-28 at 15.33.42.jpeg" class="img-fluid" alt="">
                             <div class="portfolio-info">
                                 <h4>Dry Cough Syrup Bottle</h4>
+=======
+                            <img src="assets/img/portfolio/rsz_817i7ochful_sl1500_.jpg" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+                                <h4>Leveller</h4>
+>>>>>>> f36ec85c1167513a97acf7f793c99cbb59d5816f
                                 <!-- <p>Card</p> -->
                                 <!-- <div class="portfolio-links">
                                     <a href="assets/img/portfolio/61606985-plastic-spoons-on-white-background.jpg" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
@@ -598,9 +614,15 @@
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                         <div class="portfolio-wrap">
+<<<<<<< HEAD
                             <img src="assets/img/portfolio/WhatsApp Image 2021-07-28 at 15.34.10.jpeg" class="img-fluid" alt="">
                             <div class="portfolio-info">
                                 <h4>Tulsi Drop Bottle 30 ml</h4>
+=======
+                            <img src="assets/img/portfolio/battery-bottom-bar-500x500.jpg" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+                                <h4>Bottom Bar</h4>
+>>>>>>> f36ec85c1167513a97acf7f793c99cbb59d5816f
                                 <!-- <p>Card</p> -->
                                 <!-- <div class="portfolio-links">
                                     <a href="assets/img/portfolio/battery-bottom-bar-500x500.jpg" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
@@ -611,9 +633,15 @@
                     </div>
                     <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                         <div class="portfolio-wrap">
+<<<<<<< HEAD
                             <img src="assets/img/portfolio/WhatsApp Image 2021-07-28 at 15.34.16.jpeg" class="img-fluid" alt="">
                             <div class="portfolio-info">
                                 <h4>Bottom Bar</h4>
+=======
+                            <img src="assets/img/portfolio/disposable-plastic-spoon-500x500.jpg" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+                                <h4>Spoon</h4>
+>>>>>>> f36ec85c1167513a97acf7f793c99cbb59d5816f
                                 <!-- <p>Card</p> -->
                                 <!-- <div class="portfolio-links">
                                     <a href="assets/img/portfolio/disposable-plastic-spoon-500x500.jpg" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
@@ -625,9 +653,15 @@
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                         <div class="portfolio-wrap">
+<<<<<<< HEAD
                             <img src="assets/img/portfolio/WhatsApp Image 2021-07-28 at 15.34.26.jpeg" class="img-fluid" alt="">
                             <div class="portfolio-info">
                                 <h4>Vent Plug M30</h4>
+=======
+                            <img src="assets/img/portfolio/61606985-plastic-spoons-on-white-background.jpg" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+                                <h4>Spoon</h4>
+>>>>>>> f36ec85c1167513a97acf7f793c99cbb59d5816f
                                 <!-- <p>Card</p> -->
                                 <!-- <div class="portfolio-links">
                                     <a href="assets/img/portfolio/817I7OCHFUL._SL1500_.jpg" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
@@ -639,6 +673,7 @@
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                         <div class="portfolio-wrap">
+<<<<<<< HEAD
                             <img src="assets/img/portfolio/WhatsApp Image 2021-07-28 at 15.34.43.jpeg" class="img-fluid" alt="">
                             <div class="portfolio-info">
                                 <h4>Eye Drop Bottle 10 ml</h4>
@@ -656,6 +691,11 @@
                             <img src="assets/img/portfolio/WhatsApp Image 2021-07-28 at 15.34.53.jpeg" class="img-fluid" alt="">
                             <div class="portfolio-info">
                                 <h4>Eye Drop Bottle 5 ml</h4>
+=======
+                            <img src="assets/img/portfolio/Screenshot from 2021-06-14 11-26-29.png" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+                                <h4>Eye Dropper</h4>
+>>>>>>> f36ec85c1167513a97acf7f793c99cbb59d5816f
                                 <!-- <p>Web</p>
                                 <div class="portfolio-links">
                                     <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
@@ -667,9 +707,15 @@
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                         <div class="portfolio-wrap">
+<<<<<<< HEAD
                             <img src="assets/img/portfolio/WhatsApp Image 2021-07-28 at 15.35.04.jpeg" class="img-fluid" alt="">
                             <div class="portfolio-info">
                                 <h4>30 ml Measuring Cap</h4>
+=======
+                            <img src="assets/img/portfolio/Screenshot from 2021-06-14 11-28-07.png" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+                                <h4>Nasal and Ear Dropper</h4>
+>>>>>>> f36ec85c1167513a97acf7f793c99cbb59d5816f
                                 <!-- <p>Web</p>
                                 <div class="portfolio-links">
                                     <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
@@ -681,9 +727,15 @@
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                         <div class="portfolio-wrap">
+<<<<<<< HEAD
                             <img src="assets/img/portfolio/WhatsApp Image 2021-07-28 at 15.35.18.jpeg" class="img-fluid" alt="">
                             <div class="portfolio-info">
                                 <h4>5ml Measuring Cap</h4>
+=======
+                            <img src="assets/img/portfolio/Screenshot from 2021-06-14 11-28-10.png" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+                                <h4>Measuring Caps</h4>
+>>>>>>> f36ec85c1167513a97acf7f793c99cbb59d5816f
                                 <!-- <p>Web</p>
                                 <div class="portfolio-links">
                                     <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
